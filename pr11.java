@@ -1,5 +1,5 @@
 import java.util.*;
-public class pr10{
+public class pr11{
     void print(int s[][], int i, int j) {
         if (i == j) {
             System.out.print("A" + i);
